@@ -13,6 +13,8 @@ a {
 
 body {
   background: $primary-color;
+  min-height: 100vh;
+  position: relative;
 }
 
 .container {
