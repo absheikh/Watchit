@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+Watchit is a movie listing web application directory created with ReactJS, Redux Toolkit, Axios and Sass.
+
+<img width="1648" alt="watchit" src="https://user-images.githubusercontent.com/26444671/184252087-0d74eeca-e16e-40b4-b43f-bba8be46e039.png">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
